@@ -1,11 +1,16 @@
 # Compilador Léxico RPN para ARMv7
 
-Instituição: PUCPR - Pontifícia Universidade Católica do Paraná
-Disciplina: Linguagens Formais e Compiladores
-Professor: FRANK COELHO DE ALCANTARA
-Aluno: Lucas de Souza Vieira
-GitHub: Lucas-deV-Souza
-Grupo: RA1 9
+**Instituição:** PUCPR - Pontifícia Universidade Católica do Paraná
+
+**Disciplina:** Linguagens Formais e Compiladores
+
+**Professor:** Frank Coelho de Alcantara
+
+**Aluno:** Lucas de Souza Vieira
+
+**GitHub:** Lucas-deV-Souza
+
+**Grupo:** RA1 9
 
 # Sobre o Projeto
 Este projeto é um analisador léxico construído em Python que lê expressões matemáticas em Notação Polonesa Reversa (RPN) e as converte para a linguagem Assembly compatível com a arquitetura ARMv7 (placa DE1-SoC), para execução no emulador CPulator.
